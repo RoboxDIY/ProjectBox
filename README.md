@@ -43,67 +43,108 @@ This project is designed to provide a versatile, professional-grade enclosure fo
 Depending on the version you purchased on our Etsy store, your kit includes:
 
 **Generic Version:**
+
 | Component | Description |
 | :--- | :--- |
-| **Main Enclosure** | 2-Module size Box, printed in PETG-CF, with pre-installed brass inserts, 4x M20 Cable Glands + EPDM O-ring for environmental sealing. |
-| **Wall Mount** | sliding rail mechanism, printed in PETG-CF, with 4x universal wall screws included. |
-| **Generic module** | 2x Interchangeable internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | 8x Self-adhesive nylon standoffs for quick ESP32/Generic board mounting. |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes custom EPDM sealing and 4x M20 Cable Glands. |
+| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Generic Baseplates** | 2x Interchangeable blank internal baseplates, printed in PETG-CF. |
+| **PCB Mounts** | 8x Self-adhesive nylon standoffs for quick, toolless ESP32/Arduino board mounting. |
 
-**Raspberry Version:**
-| **Main Enclosure** | 2-Module size Box, printed in PETG-CF, with pre-installed brass inserts, 4x M20 Cable Glands + EPDM O-ring for environmental sealing. |
-| **Wall Mount** | sliding rail mechanism, printed in PETG-CF, with 4x universal wall screws included. |
-| **Raspberry Mounting** | Built-in Raspberry Pi mounting, with pre-installed brass inserts, 4x M2.5x6mm screws. |
-| **Fan Mounting** | Built-in 40mmx40mm fan mounting, with pre-installed brass inserts, 4x M3x6mm screws. |
-| **Generic module** | 1x Interchangeable internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | 4x Self-adhesive nylon standoffs for quick ESP32/Generic board mounting. |
+<br>
+
+**Raspberry Pi Version:**
+
+| Component | Description |
+| :--- | :--- |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Raspberry Pi Mount** | Dedicated Raspberry Pi mounting plate with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Fan Mount** | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
+| **Generic Baseplate** | 1x Interchangeable blank internal baseplate, printed in PETG-CF. |
+| **PCB Mounts** | 4x Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
+
+<br>
 
 **Relay Version:**
-| **Main Enclosure** | 2-Module size Box, printed in PETG-CF, with pre-installed brass inserts, 4x M20 Cable Glands + EPDM O-ring for environmental sealing. |
-| **Wall Mount** | sliding rail mechanism, printed in PETG-CF, with 4x universal wall screws included. |
-| **Relay Mounting** | Custom-fit for the standard ELEGOO 8-Channel 5V DC Relay Module (with optocouplers), printed in PETG-CF, with pre-installed brass inserts, 4x M3x6mm screws. |
-| **Protection cover** | Integrated relay cover to hide and protect power wiring, printed in PETG-CF, including 2x M3x6mm screws.  |
-| **Generic module** | 1x Interchangeable internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | 4x Self-adhesive nylon standoffs for quick ESP32/Generic board mounting. |
 
-**Relay + Raspberry Version:**
-| **Main Enclosure** | 2-Module size Box, printed in PETG-CF, with pre-installed brass inserts, 4x M20 Cable Glands + EPDM O-ring for environmental sealing. |
-| **Wall Mount** | sliding rail mechanism, printed in PETG-CF, with 4x universal wall screws included. |
-| **Relay Mounting** | Custom-fit for the standard ELEGOO 8-Channel 5V DC Relay Module (with optocouplers), printed in PETG-CF, with pre-installed brass inserts, 4x M3x6mm screws. |
-| **Protection cover** | Integrated relay cover to hide and protect power wiring, printed in PETG-CF, including 2x M3x6mm screws.  |
-| **Raspberry Mounting** | Built-in Raspberry Pi mounting, with pre-installed brass inserts, 4x M2.5x6mm screws. |
-| **Fan Mounting** | Built-in 40mmx40mm fan mounting, with pre-installed brass inserts, 4x M3x6mm screws. |
+| Component | Description |
+| :--- | :--- |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes custom EPDM sealing and 4x M20 Cable Glands. |
+| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Relay Mount** | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
+| **Protection Cover** | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
+| **Generic Baseplate** | 1x Interchangeable blank internal baseplate, printed in PETG-CF. |
+| **PCB Mounts** | 4x Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
+
+<br>
+
+**Relay + Raspberry Pi Version:**
+
+| Component | Description |
+| :--- | :--- |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Raspberry Pi Mount** | Dedicated Raspberry Pi mounting plate with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Fan Mount** | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
+| **Relay Mount** | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
+| **Protection Cover** | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
 
 ---
 
-## 🚀 Assembly & Installation Guide
+## 🚀 Assembly & Installation Guide for Generic version
 
 ### 1. Mounting the Electronics
-* **Raspberry Pi Users**: Use the provided adapter plate. Secure your Pi (3, 4, or 5) using the M2.5 screws. Do not overtighten to avoid stressing the PCB.
 * **ESP32 / Generic Board Users**: Clean the bottom of the enclosure. Peel off the backing of the provided adhesive nylon standoffs, place them according to your board's footprint, and simply snap your PCB into place.
 
-### 2. Cable Routing & Cable Glands (Crucial)
+### 2. Cable Routing & Cable Glands
 To ensure mechanical strain relief and keep the box sealed against dust:
-* **Use Round Cables**: Cable glands are designed to clamp down on a single, round outer jacket (e.g., multi-conductor cable like Ethernet or 3G1.5). 
-* **Individual Wires**: If you must route multiple loose wires (like jumper wires) through a single gland, use a piece of **heat-shrink tubing** around the bundle where it passes through the gland, OR use the provided **TPU multi-hole plugs**.
-* **Unused Glands**: Always install the provided **blanking plugs (bouchons obturateurs)** in any unused cable glands.
+* **Use Round Cables**: Cable glands are designed to clamp down on a single, round outer jacket between 6mm to 12mm (e.g., multi-conductor cable like Ethernet or 4G1.5). 
+* **Individual Wires**: If you must route multiple loose wires (like jumper wires) through a single gland, use a piece of **heat-shrink tubing** around the bundle where it passes through the gland.
+* **Unused Glands**: Always install the provided **blanking plugs** in any unused cable glands.
 
 ### 3. Internal Wiring
 * Route your Dupont / signal cables neatly. 
 * Use small zip-ties on the internal anchor points (bridges) to secure the wiring harness *before* it connects to the GPIO pins or relays. This prevents accidental pull-outs.
-* Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
 
 ### 4. Wall Mounting
 Use the rear mounting holes to secure the enclosure to your wall or DIN rail adapter. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation.
 
 ---
 
-## 🛠️ 3D Files & Customization (Open Ecosystem)
+## 🚀 Assembly & Installation Guide for option Raspberry
 
-We want you to hack and customize this box! In the `3D_Files` folder of this repository, you will find:
+### 1. Mounting the Electronics
+* **Raspberry Pi Users**: Secure your Pi (3, 4, or 5) using the M2.5 screws. Do not overtighten to avoid stressing the PCB.
+* **Fan Users**: Secure your Pi 40mmx40mm fan using the M3 screws. Do not overtighten.
 
-* `Blank_Adapter_Plate.step`: A blank mounting plate with the exact hole spacing of the enclosure's base. Import this into Fusion360, TinkerCAD, or FreeCAD to design custom mounts for your specific hardware (custom PCBs, buck converters, etc.).
-* `TPU_Cable_Seals.stl`: Multi-hole inserts you can print in flexible TPU to run multiple loose wires through a single gland.
+### 2. Internal Wiring
+* Route your Dupont / signal cables neatly. 
+* Use small zip-ties on the internal anchor points (bridges) to secure the wiring harness *before* it connects to the GPIO pins or relays. This prevents accidental pull-outs.
+
+---
+
+## 🚀 Assembly & Installation Guide for option Relay board
+
+### 1. Mounting the Electronics
+* **Relay board Users**: Secure your the standard ELEGOO 8-Channel 5V DC Relay Module (with optocouplers) using the M3 screws. Do not overtighten to avoid stressing the PCB.
+* **Fan Users**: Secure your Pi 40mmx40mm fan using the M3 screws. Do not overtighten.
+
+### 2. Cable Routing & Cable Glands
+To ensure mechanical strain relief and keep the box sealed against dust:
+* **Use Round Cables**: Cable glands are designed to clamp down on a single, round outer jacket between 6mm to 12mm (e.g., multi-conductor cable like 4G1.5). 
+* **Individual Wires**: If you must route multiple loose wires through a single gland, use a piece of **heat-shrink tubing** around the bundle where it passes through the gland. Use zip tie to fix wires onto the relay board to support to avoid any mechanical strain relief on the connection
+* **Unused Glands**: Always install the provided **blanking plugs** in any unused cable glands.
+* Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
+
+---
+
+## 🛠️ 3D Files
+
+Customize your box! In the `3D_Files` folder of this repository, you will find:
+
+*   **`generic_module.step`**: An interchangeable blank internal baseplate. Import this file into Fusion360, FreeCAD, or TinkerCAD to design custom mounts for your specific hardware (e.g., custom PCBs, buck converters, or sensors).
+*   **`Free_Box_1m_noOption.stl`**: A free, basic 1-module version of the Project Box. If you need a simple, rugged enclosure without the advanced modular plates, you can download it here or visit the [Printables project page](https://www.printables.com/model/1813337-rugged-weather-resistant-box).
 
 ---
 
