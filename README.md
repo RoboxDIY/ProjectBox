@@ -31,7 +31,9 @@ This project is designed to provide a versatile, professional-grade enclosure fo
 * 🛠️ **Flexible Mounting:** Install the Project Box anywhere using the rear sliding rail mechanism. Slide the box in or out in seconds for easy maintenance.
 * 🔗 **Cable Management:** Features built-in anchor points on the interior walls to secure cables with zip-ties for a clean, professional wiring job.
 
-<!-- Capture CAO + légende -->
+<div align="center">
+  <img src="assets/Generic.png" alt="Description de l'image" width="600">
+</div>
 
 **Raspberry Pi Option:**
 
@@ -39,14 +41,18 @@ This project is designed to provide a versatile, professional-grade enclosure fo
 * 🧩 **Hybrid Layout:** Retains 1 interchangeable baseplate to mount an additional ESP32/Arduino board or actuator alongside your Pi.
 * 💨 **Active Cooling:** Built-in 40x40mm fan mount equipped with a front dust mesh filter for optimal airflow.
 
-<!-- Capture CAO + légende -->
+<div align="center">
+  <img src="assets/Raspberry.png" alt="Description de l'image" width="600">
+</div>
 
 **Relay Module Option:**
 
 * ⚡ **Relay Compatibility:** Custom-fit for the standard [ELEGOO 8-Channel 5V DC Relay Module (with optocouplers)](https://wiki.elegoo.com/oshw-parts-&-accessories/8-CHANNEL?ref=blog.shwok.com). We strongly recommend to buy the genuine version for perfect compatibility.
 * 🛡️ **Mechanical Protection:** Features an integrated snap-on cover to hide cables, secure the wiring, and prevent accidental contact during maintenance.
 
-<!-- Capture CAO + légende -->
+<div align="center">
+  <img src="assets/Relay.png" alt="Description de l'image" width="600">
+</div>
 
 ---
 
@@ -200,7 +206,10 @@ Customize your box! In the `3D_Files` folder of this repository, you will find:
 *   **`generic_module.step`**: An interchangeable blank internal baseplate. Import this file into Fusion360, FreeCAD, or TinkerCAD to design custom mounts for your specific hardware (e.g., custom PCBs, buck converters, or sensors).
 *   **`Free_Box_1m_noOption.stl`**: A free, basic 1-module version of the Project Box. If you need a simple, rugged enclosure without the advanced modular plates, you can download it here or visit the [Printables Box](https://www.printables.com/model/1813337-rugged-weather-resistant-box).
 
-<!-- Capture PrusaSlicer et Printables -->
+<div align="center">
+  <img src="assets/Free_Box.jpg" alt="Description de l'image" width="600">
+</div>
+
 ---
 
 ## 🤝 Support & Feedback
