@@ -67,7 +67,7 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 
 | Component | Description |
 | :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes custom EPDM sealing and 4x M20 Cable Glands. |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
 | **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
 | **Generic Baseplates** | 2x Interchangeable blank internal baseplates, printed in PETG-CF. |
 | **PCB Mounts** | 8x Self-adhesive nylon standoffs for quick, toolless ESP32/Arduino board mounting. |
@@ -88,16 +88,13 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 
 <!-- Capture CAO éclatée + légende -->
 
-> [!NOTE]
-> Fan and Raspberry Pi not included
-
 <br>
 
 **Relay Version:**
 
 | Component | Description |
 | :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes custom EPDM sealing and 4x M20 Cable Glands. |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
 | **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
 | **Relay Mount** | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
 | **Protection Cover** | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
@@ -106,16 +103,13 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 
 <!-- Capture CAO éclatée + légende -->
 
-> [!NOTE]
-> Relay board not included
-
 <br>
 
 **Relay + Raspberry Pi Version:**
 
 | Component | Description |
 | :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes 4x M20 Cable Glands. |
 | **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
 | **Raspberry Pi Mount** | Dedicated Raspberry Pi mounting plate with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
 | **Fan Mount** | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
