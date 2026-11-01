@@ -1,6 +1,8 @@
 # 🛠️ Project Box
 
-<!-- Photo officiel de la Project Box -->
+<div align="center">
+  <img src="assets/Couverture.jpg" alt="Description de l'image" width="600">
+</div>
 
 Welcome to the official repository for the **Project Box**. 
 This project is designed to provide a versatile, professional-grade enclosure for your DIY builds, such as:
