@@ -180,7 +180,7 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 Use the rear mounting holes to secure the enclosure to your wall. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation. Then slide your box through the wallmount.
 
 <div align="center">
-  <img src="Wallmount_mount.jpg" alt="Description de l'image" width="400">
+  <img src="assets/Wallmount_mount.jpg" alt="Description de l'image" width="400">
   <img src="assets/Wallmount.gif" alt="Description de l'image" width="400">
 </div>
 
