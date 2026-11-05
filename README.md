@@ -234,3 +234,18 @@ If you bought this enclosure on our Etsy shop, thank you for supporting independ
 * 🛒 **Store Link**: [Insert your Etsy Shop Link here]
 * ⭐ **Leave a Review**: Your photos and feedback help us improve the product!
 * 🐛 **Issues**: Feel free to open an Issue on this GitHub repository if you find a bug with the adapter plates or have a feature request.
+
+---
+
+## 💡 Examples
+
+<div align="center">
+  <img src="assets/HA_example_1.jpg" alt="Description de l'image" width="300">
+  <img src="assets/HA_example_2.jpg" alt="Description de l'image" width="300">
+</div>
+
+<div align="center">
+  <img src="assets/Garage_example_1.jpg" alt="Description de l'image" width="300">
+  <img src="assets/Garage_exapmle_2.jpg" alt="Description de l'image" width="300">
+</div>
+
