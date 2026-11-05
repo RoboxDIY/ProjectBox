@@ -92,10 +92,34 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 | :--- | :--- | :--- | :--- |
 | **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
 | **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Raspberry Pi Mount** | | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
-| **Fan Mount** | | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
+| **Raspberry Pi Mount** | <img src="assets/Raspberry4.png" alt="Description de l'image" width="100"> | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Fan Mount** | <img src="assets/Fan.png" alt="Description de l'image" width="100"> | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
 | **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 1 | Interchangeable blank internal baseplates, printed in PETG-CF. |
 | **PCB Mounts** | | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
+
+Available for Raspberry 3, 4 or 5 :
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/Raspberry3.png" alt="Raspberry 3" width="250">
+        <br>
+        <i>Raspberry 3</i>
+      </td>
+      <td align="center">
+        <img src="assets/Raspberry4.png" alt="Raspberry 4" width="250">
+        <br>
+        <i>Raspberry 4</i>
+      </td>
+      <td align="center">
+        <img src="assets/Raspberry5.png" alt="Raspberry 5" width="250">
+        <br>
+        <i>Raspberry 5</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -118,8 +142,8 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 | :--- | :--- | :--- | :--- |
 | **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
 | **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Raspberry Pi Mount** | | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
-| **Fan Mount** | | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
+| **Raspberry Pi Mount** | <img src="assets/Raspberry4.png" alt="Description de l'image" width="100"> | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Fan Mount** | <img src="assets/Fan.png" alt="Description de l'image" width="100"> | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
 | **Relay Mount** | <img src="assets/Relay_Module.png" alt="Description de l'image" width="100"> | 1 | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
 | **Protection Cover** | <img src="assets/Capot.png" alt="Description de l'image" width="100"> | 1 | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
 
