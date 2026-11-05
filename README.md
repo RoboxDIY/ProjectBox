@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="assets/Couverture.jpg" alt="Description de l'image" width="600">
+  
+  <img src="assets/Project_Box.gif" alt="Description de l'image" width="600">
 </div>
 
 Welcome to the official repository for the **Project Box**. 
