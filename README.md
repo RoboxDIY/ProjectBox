@@ -119,7 +119,7 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 | :--- | :--- |
 | **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes 4x M20 Cable Glands. |
 | **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Raspberry Pi Mount** | Dedicated Raspberry Pi mounting plate with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Raspberry Pi Mount** | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
 | **Fan Mount** | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
 | **Relay Mount** | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
 | **Protection Cover** | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
@@ -203,8 +203,8 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 
 Customize your box! In the `3D_Files` folder of this repository, you will find:
 
-*   **`generic_module.step`**: An interchangeable blank internal baseplate. Import this file into Fusion360, FreeCAD, or TinkerCAD to design custom mounts for your specific hardware (e.g., custom PCBs, buck converters, or sensors).
-*   **`Free_Box_1m_noOption.stl`**: A free, basic 1-module version of the Project Box. If you need a simple, rugged enclosure without the advanced modular plates, you can download it here or visit the [Printables Box](https://www.printables.com/model/1813337-rugged-weather-resistant-box).
+*   **`Generic_Module.step`**: An interchangeable blank internal baseplate. Import this file into Fusion360, FreeCAD, or TinkerCAD to design custom mounts for your specific hardware (e.g., custom PCBs, buck converters, or sensors).
+*   **`Free_Box_1m_noOption`**: A free, basic 1-module version of the Project Box. If you need a simple, rugged enclosure without the advanced modular plates, you can download it here or visit the [Printables Box](https://www.printables.com/model/1813337-rugged-weather-resistant-box).
 
 <div align="center">
   <img src="assets/Free_Box.jpg" alt="Description de l'image" width="600">
