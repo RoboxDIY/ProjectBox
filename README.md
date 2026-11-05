@@ -8,7 +8,7 @@ Welcome to the official repository for the **Project Box**.
 This project is designed to provide a versatile, professional-grade enclosure for your DIY builds, such as:
  * Home Automation: Home Assistant, ESPHome, WLED
  * Outdoor Automation: LEDs, water pumps, actuators
- * Robotics: Arduino, ESP32, motor drivers
+ * Robotics: Arduino, ESP32, motor drivers, Raspberry 3, 4 or 5
  * Aquariums & Terrariums: Climate and lighting control
  * ...and much more.
 
@@ -32,7 +32,7 @@ This project is designed to provide a versatile, professional-grade enclosure fo
 * 🔗 **Cable Management:** Features built-in anchor points on the interior walls to secure cables with zip-ties for a clean, professional wiring job.
 
 <div align="center">
-  <img src="assets/Generic.png" alt="Description de l'image" width="600">
+  <img src="assets/Generic.png" alt="Description de l'image" width="400">
 </div>
 
 **Raspberry Pi Option:**
@@ -42,7 +42,7 @@ This project is designed to provide a versatile, professional-grade enclosure fo
 * 💨 **Active Cooling:** Built-in 40x40mm fan mount equipped with a front dust mesh filter for optimal airflow.
 
 <div align="center">
-  <img src="assets/Raspberry.png" alt="Description de l'image" width="600">
+  <img src="assets/Raspberry.png" alt="Description de l'image" width="400">
 </div>
 
 **Relay Module Option:**
@@ -51,19 +51,23 @@ This project is designed to provide a versatile, professional-grade enclosure fo
 * 🛡️ **Mechanical Protection:** Features an integrated snap-on cover to hide cables, secure the wiring, and prevent accidental contact during maintenance.
 
 <div align="center">
-  <img src="assets/Relay.png" alt="Description de l'image" width="600">
+  <img src="assets/Relay.png" alt="Description de l'image" width="400">
+  <img src="assets/Raspberry_Relay.png" alt="Description de l'image" width="420">
 </div>
 
 ---
 
 ## 📏 Dimensions
 
-*   **Base Enclosure (No accessories):** 208 x 70 x 185 mm
-*   **Total Outer Size (with Cable Glands):** 233 x 70 x 185 mm
-*   **Total Outer Size (with Wall Mount):** 235 x 74 x 185 mm
+*   **Base Enclosure (No accessories):** 208 x 68 x 185 mm
+*   **Total Outer Size (with Cable Glands):** 233 x 68 x 185 mm
+*   **Total Outer Size (with Wall Mount):** 234 x 71 x 185 mm
 *   **Inner Usable Space:** 192 x 51 x 152 mm
 
-<!-- Capture CAO + dimensions -->
+<div align="center">
+  <img src="assets/Dimensions.png" alt="Description de l'image" width="800">
+</div>
+
 ---
 
 ## 📦 What's in the Kit?
@@ -73,58 +77,51 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 
 **Generic Version:**
 
-| Component | Description |
-| :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
-| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Generic Baseplates** | 2x Interchangeable blank internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | 8x Self-adhesive nylon standoffs for quick, toolless ESP32/Arduino board mounting. |
+| Component | Item | Qt | Description |
+| :--- | :--- | :--- | :--- |
+| **Main Enclosure** | <img src="assets/Main_Enclosure.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
+| **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 2 | Interchangeable blank internal baseplates, printed in PETG-CF. |
+| **PCB Mounts** | | 8 | Self-adhesive nylon standoffs for quick, toolless ESP32/Arduino board mounting. |
 
-<!-- Capture CAO éclatée + légende -->
 <br>
 
 **Raspberry Pi Version:**
 
-| Component | Description |
-| :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
-| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Raspberry Pi Mount** | Dedicated Raspberry Pi mounting plate with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
-| **Fan Mount** | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
-| **Generic Baseplate** | 1x Interchangeable blank internal baseplate, printed in PETG-CF. |
-| **PCB Mounts** | 4x Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
-
-<!-- Capture CAO éclatée + légende -->
+| Component | Item | Qt | Description |
+| :--- | :--- | :--- | :--- |
+| **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Raspberry Pi Mount** | | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Fan Mount** | | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
+| **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 1 | Interchangeable blank internal baseplates, printed in PETG-CF. |
+| **PCB Mounts** | | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
 
 <br>
 
 **Relay Version:**
 
-| Component | Description |
-| :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
-| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Relay Mount** | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
-| **Protection Cover** | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
-| **Generic Baseplate** | 1x Interchangeable blank internal baseplate, printed in PETG-CF. |
-| **PCB Mounts** | 4x Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
-
-<!-- Capture CAO éclatée + légende -->
+| Component | Item | Qt | Description |
+| :--- | :--- | :--- | :--- |
+| **Main Enclosure** | <img src="assets/Main_Enclosure.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
+| **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Relay Mount** | <img src="assets/Relay_Module.png" alt="Description de l'image" width="100"> | 1 | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
+| **Protection Cover** | <img src="assets/Capot.png" alt="Description de l'image" width="100"> | 1 | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
+| **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 1 | Interchangeable blank internal baseplates, printed in PETG-CF. |
+| **PCB Mounts** | | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
 
 <br>
 
 **Relay + Raspberry Pi Version:**
 
-| Component | Description |
-| :--- | :--- |
-| **Main Enclosure** | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes 4x M20 Cable Glands. |
-| **Wall Mount** | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
-| **Raspberry Pi Mount** | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
-| **Fan Mount** | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
-| **Relay Mount** | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
-| **Protection Cover** | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
-
-<!-- Capture CAO éclatée + légende -->
+| Component | Item | Qt | Description |
+| :--- | :--- | :--- | :--- |
+| **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
+| **Raspberry Pi Mount** | | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
+| **Fan Mount** | | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
+| **Relay Mount** | <img src="assets/Relay_Module.png" alt="Description de l'image" width="100"> | 1 | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
+| **Protection Cover** | <img src="assets/Capot.png" alt="Description de l'image" width="100"> | 1 | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
 
 > [!NOTE]
 > Relay board, Fan and Raspberry Pi not included
@@ -204,10 +201,15 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 Customize your box! In the `3D_Files` folder of this repository, you will find:
 
 *   **`Generic_Module.step`**: An interchangeable blank internal baseplate. Import this file into Fusion360, FreeCAD, or TinkerCAD to design custom mounts for your specific hardware (e.g., custom PCBs, buck converters, or sensors).
+
+<div align="center">
+  <img src="assets/Generic_Module.jpg" alt="Description de l'image" width="400">
+</div>
+
 *   **`Free_Box_1m_noOption`**: A free, basic 1-module version of the Project Box. If you need a simple, rugged enclosure without the advanced modular plates, you can download it here or visit the [Printables Box](https://www.printables.com/model/1813337-rugged-weather-resistant-box).
 
 <div align="center">
-  <img src="assets/Free_Box.jpg" alt="Description de l'image" width="600">
+  <img src="assets/Free_Box.jpg" alt="Description de l'image" width="400">
 </div>
 
 ---
