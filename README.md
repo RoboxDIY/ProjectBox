@@ -203,7 +203,7 @@ Use the rear mounting holes to secure the enclosure to your wall. Make sure to m
 * **Relay board Users**: Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
 
 <div align="center">
-  <img src="assets/Schematics_Example.png" alt="Description de l'image" width="1000">
+  <img src="assets/Example_Schematics.png" alt="Description de l'image" width="1000">
 </div>
 
 <div align="center">
