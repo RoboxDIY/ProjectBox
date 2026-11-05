@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="assets/Couverture.jpg" alt="Description de l'image" width="600">
-  
-  <img src="assets/Project_Box.gif" alt="Description de l'image" width="600">
 </div>
 
 Welcome to the official repository for the **Project Box**. 
@@ -155,7 +153,10 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 ### 4. Wall Mounting
 Use the rear mounting holes to secure the enclosure to your wall. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation.
 
-<!-- Photo montage wallmount (niveau et dimension trous) -->
+<div align="center">
+  <img src="assets/Wallmount.gif" alt="Description de l'image" width="400">
+</div>
+
 ---
 
 ## 🚀 Assembly & Installation Guide for option Raspberry
