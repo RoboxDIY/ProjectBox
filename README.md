@@ -1,7 +1,7 @@
 # 🛠️ Project Box
 
 <div align="center">
-  <img src="assets/Couverture.jpg" alt="Description de l'image" width="600">
+  <img src="assets/Couverture.jpg" alt="Description de l'image" width="700">
 </div>
 
 Welcome to the official repository for the **Project Box**. 
@@ -202,10 +202,12 @@ Use the rear mounting holes to secure the enclosure to your wall. Make sure to m
 * **Power Supply:** We highly recommend using the official power supply of your Raspberry Pi. It provides sufficient headroom to power both the Pi and the 8-channel relay module simultaneously without stability issues.
 * **Relay board Users**: Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
 
-<!-- Schéma câblage -->
+<div align="center">
+  <img src="assets/Schematics_Example.png" alt="Description de l'image" width="1000">
+</div>
 
 <div align="center">
-  <img src="assets/Raspberry_Relay.jpg" alt="Description de l'image" width="300">
+  <img src="assets/Raspberry_Relay.jpg" alt="Description de l'image" width="400">
 </div>
 
 ---
