@@ -179,33 +179,18 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 Use the rear mounting holes to secure the enclosure to your wall. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation. Then slide your box through the wallmount.
 
 <div align="center">
-  <img src="assets/Wallmount_mount.jpg" alt="Description de l'image" width="360">
-  <img src="assets/Wallmount.gif" alt="Description de l'image" width="640">
+  <img src="assets/Wallmount_mount.jpg" alt="Description de l'image" width="300">
+  <img src="assets/Wallmount.gif" alt="Description de l'image" width="540">
 </div>
 
 ---
 
-## 🚀 Assembly & Installation Guide for option Raspberry
+## 🚀 Assembly & Installation Guide for option Raspberry and option Relay
 
 ### 1. Mounting the Electronics
 * **Raspberry Pi Users**: Secure your Pi (3, 4, or 5) using the M2.5 screws. Do not overtighten to avoid stressing the PCB. Go to [Raspberry Pi](https://www.raspberrypi.com/documentation/) for more information.
 * **Fan Users**: Secure your Pi 40mmx40mm fan using the M3 screws. Do not overtighten.
-
-<div align="center">
-  <img src="assets/Couverture.jpg" alt="Description de l'image" width="400">
-</div>
-
-### 2. Internal Wiring
-* Route your Dupont / signal cables neatly. 
-* Use small zip-ties on the internal anchor points (bridges) to secure the wiring harness *before* it connects to the GPIO pins or relays. This prevents accidental pull-outs.
-
----
-
-## 🚀 Assembly & Installation Guide for option Relay board
-
-### 1. Mounting the Electronics
 * **Relay board Users**: Secure the standard ELEGOO 8-Channel 5V DC Relay Module (with optocouplers) using the M3 screws. Do not overtighten to avoid stressing the PCB. Go to [ELEGOO Wiki](https://wiki.elegoo.com/oshw-parts-&-accessories/8-CHANNEL?ref=blog.shwok.com) for more information.
-* **Fan Users**: Secure your Fan 40mmx40mm fan using the M3 screws. Do not overtighten.
 
 <div align="center">
   <img src="assets/Couverture.jpg" alt="Description de l'image" width="400">
@@ -215,18 +200,12 @@ Use the rear mounting holes to secure the enclosure to your wall. Make sure to m
 * Route your Dupont / signal cables neatly. 
 * Use small zip-ties on the internal anchor points (bridges) to secure the wiring harness *before* it connects to the GPIO pins or relays. This prevents accidental pull-outs.
 * **Power Supply:** We highly recommend using the official power supply of your Raspberry Pi. It provides sufficient headroom to power both the Pi and the 8-channel relay module simultaneously without stability issues.
+* **Relay board Users**: Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
 
 <!-- Schéma câblage -->
 
-### 3. Cable Routing & Cable Glands
-To ensure mechanical strain relief and keep the box sealed against dust:
-* **Use Round Cables**: Cable glands are designed to clamp down on a single, round outer jacket between 6mm to 12mm (e.g., multi-conductor cable like 4G1.5). 
-* **Individual Wires**: If you must route multiple loose wires through a single gland, use a piece of **heat-shrink tubing** around the bundle where it passes through the gland. Use zip-ties to secure wires to the relay board's anchor points to prevent mechanical strain on the connections.
-* **Unused Glands**: Always install the provided **blanking plugs** in any unused cable glands.
-* Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
-
 <div align="center">
-  <img src="assets/Raspberry_Relay.jpg" alt="Description de l'image" width="200">
+  <img src="assets/Raspberry_Relay.jpg" alt="Description de l'image" width="300">
 </div>
 
 ---
