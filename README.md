@@ -165,6 +165,7 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 * **Use Round Cables**: Cable glands are designed to clamp down on a single, round outer jacket between 6mm to 12mm (e.g., multi-conductor cable like Ethernet or 4G1.5mm2). 
 * **Individual Wires**: If you must route multiple loose wires (like jumper wires) through a single gland, use a piece of **heat-shrink tubing** around the bundle where it passes through the gland.
 * **Unused Glands**: Always install the provided **blanking plugs** in any unused cable glands.
+
 <div align="center">
   <img src="assets/Gland1.jpg" alt="Description de l'image" width="400">
   <img src="assets/Gland2.png" alt="Description de l'image" width="400">
@@ -174,14 +175,12 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 * Route your Dupont / signal cables neatly. 
 * Use small zip-ties on the internal anchor points (bridges) to secure the wiring harness *before* it connects to the GPIO pins or relays. This prevents accidental pull-outs.
 
-<!-- Photo intérieur box + légende -->
-
 ### 4. Wall Mounting
 Use the rear mounting holes to secure the enclosure to your wall. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation. Then slide your box through the wallmount.
 
 <div align="center">
-  <img src="assets/Wallmount_mount.jpg" alt="Description de l'image" width="400">
-  <img src="assets/Wallmount.gif" alt="Description de l'image" width="400">
+  <img src="assets/Wallmount_mount.jpg" alt="Description de l'image" width="360">
+  <img src="assets/Wallmount.gif" alt="Description de l'image" width="640">
 </div>
 
 ---
@@ -192,22 +191,25 @@ Use the rear mounting holes to secure the enclosure to your wall. Make sure to m
 * **Raspberry Pi Users**: Secure your Pi (3, 4, or 5) using the M2.5 screws. Do not overtighten to avoid stressing the PCB. Go to [Raspberry Pi](https://www.raspberrypi.com/documentation/) for more information.
 * **Fan Users**: Secure your Pi 40mmx40mm fan using the M3 screws. Do not overtighten.
 
-<!-- Photo intérieur box + légende -->
+<div align="center">
+  <img src="assets/Couverture.jpg" alt="Description de l'image" width="400">
+</div>
 
 ### 2. Internal Wiring
 * Route your Dupont / signal cables neatly. 
 * Use small zip-ties on the internal anchor points (bridges) to secure the wiring harness *before* it connects to the GPIO pins or relays. This prevents accidental pull-outs.
 
-<!-- Schéma câblage -->
 ---
 
 ## 🚀 Assembly & Installation Guide for option Relay board
 
 ### 1. Mounting the Electronics
 * **Relay board Users**: Secure the standard ELEGOO 8-Channel 5V DC Relay Module (with optocouplers) using the M3 screws. Do not overtighten to avoid stressing the PCB. Go to [ELEGOO Wiki](https://wiki.elegoo.com/oshw-parts-&-accessories/8-CHANNEL?ref=blog.shwok.com) for more information.
-* **Fan Users**: Secure your Pi 40mmx40mm fan using the M3 screws. Do not overtighten.
+* **Fan Users**: Secure your Fan 40mmx40mm fan using the M3 screws. Do not overtighten.
 
-<!-- Photo intérieur box + légende -->
+<div align="center">
+  <img src="assets/Couverture.jpg" alt="Description de l'image" width="400">
+</div>
 
 ### 2. Internal Wiring
 * Route your Dupont / signal cables neatly. 
@@ -223,7 +225,10 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 * **Unused Glands**: Always install the provided **blanking plugs** in any unused cable glands.
 * Once the relays are wired, install the **Relay Protection Cover** using the dedicated M3 screws.
 
-<!-- Photo intérieur box + capot et légende -->
+<div align="center">
+  <img src="assets/Raspberry_Relay.jpg" alt="Description de l'image" width="200">
+</div>
+
 ---
 
 ## 🛠️ 3D Files
