@@ -90,7 +90,7 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 
 | Component | Item | Qt | Description |
 | :--- | :--- | :--- | :--- |
-| **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes custom EPDM sealing and 4x M20 Cable Glands. |
 | **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
 | **Raspberry Pi Mount** | <img src="assets/Raspberry4.png" alt="Description de l'image" width="100"> | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
 | **Fan Mount** | <img src="assets/Fan.png" alt="Description de l'image" width="100"> | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
@@ -140,7 +140,7 @@ Available for Raspberry 3, 4 or 5 :
 
 | Component | Item | Qt | Description |
 | :--- | :--- | :--- | :--- |
-| **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts. Includes 4x M20 Cable Glands. |
+| **Main Enclosure** | <img src="assets/Main_Enclosure_Raspberry.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts.  Includes custom EPDM sealing and 4x M20 Cable Glands. |
 | **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
 | **Raspberry Pi Mount** | <img src="assets/Raspberry4.png" alt="Description de l'image" width="100"> | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
 | **Fan Mount** | <img src="assets/Fan.png" alt="Description de l'image" width="100"> | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
@@ -204,9 +204,7 @@ Use the rear mounting holes to secure the enclosure to your wall. Make sure to m
 
 <div align="center">
   <img src="assets/Example_Schematics.png" alt="Description de l'image" width="1000">
-</div>
-
-<div align="center">
+  <br>
   <img src="assets/Raspberry_Relay.jpg" alt="Description de l'image" width="400">
 </div>
 
