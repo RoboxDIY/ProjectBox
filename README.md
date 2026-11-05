@@ -165,8 +165,10 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 * **Use Round Cables**: Cable glands are designed to clamp down on a single, round outer jacket between 6mm to 12mm (e.g., multi-conductor cable like Ethernet or 4G1.5mm2). 
 * **Individual Wires**: If you must route multiple loose wires (like jumper wires) through a single gland, use a piece of **heat-shrink tubing** around the bundle where it passes through the gland.
 * **Unused Glands**: Always install the provided **blanking plugs** in any unused cable glands.
-
-<!-- Photo Gland OK et Photo Gland KO + légende -->
+<div align="center">
+  <img src="assets/Gland1.jpg" alt="Description de l'image" width="400">
+  <img src="assets/Gland2.png" alt="Description de l'image" width="400">
+</div>
 
 ### 3. Internal Wiring
 * Route your Dupont / signal cables neatly. 
@@ -175,9 +177,10 @@ To ensure mechanical strain relief and keep the box sealed against dust:
 <!-- Photo intérieur box + légende -->
 
 ### 4. Wall Mounting
-Use the rear mounting holes to secure the enclosure to your wall. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation.
+Use the rear mounting holes to secure the enclosure to your wall. Make sure to mount the box with the cable glands facing **downwards** to prevent dust or moisture accumulation. Then slide your box through the wallmount.
 
 <div align="center">
+  <img src="Wallmount_mount.jpg" alt="Description de l'image" width="400">
   <img src="assets/Wallmount.gif" alt="Description de l'image" width="400">
 </div>
 
