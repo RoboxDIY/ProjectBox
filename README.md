@@ -12,7 +12,9 @@ This project is designed to provide a versatile, professional-grade enclosure fo
  * Aquariums & Terrariums: Climate and lighting control
  * ...and much more.
 
-<!-- Cas d'usage IA -->
+<div align="center">
+  <img src="assets/IA.jpg" alt="Description de l'image" width="400">
+</div>
 
 > [!WARNING]
 > **SAFETY NOTICE - STRICTLY LOW VOLTAGE (MAX 48V)**
@@ -82,7 +84,7 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 | **Main Enclosure** | <img src="assets/Main_Enclosure.png" alt="Description de l'image" width="100"> | 1 | 2-Module size enclosure, printed in premium PETG-CF with pre-installed brass inserts and zip-ties. Includes custom EPDM sealing and 4x M20 Cable Glands. |
 | **Wall Mount** | <img src="assets/Wallmount.png" alt="Description de l'image" width="100"> | 1 | Sliding rail mechanism, printed in PETG-CF. Includes 4x universal wall mounting screws. |
 | **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 2 | Interchangeable blank internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | | 8 | Self-adhesive nylon standoffs for quick, toolless ESP32/Arduino board mounting. |
+| **PCB Mounts** | <img src="assets/PCB_adhesive.png" alt="Description de l'image" width="100"> | 8 | Self-adhesive nylon standoffs for quick, toolless ESP32/Arduino board mounting. |
 
 <br>
 
@@ -95,7 +97,7 @@ Depending on the version you purchased on our Etsy store, your kit includes:
 | **Raspberry Pi Mount** | <img src="assets/Raspberry4.png" alt="Description de l'image" width="100"> | 1 | Built-in Raspberry Pi (3, 4 or 5) mount with pre-installed brass inserts. Includes 4x M2.5x6mm screws. |
 | **Fan Mount** | <img src="assets/Fan.png" alt="Description de l'image" width="100"> | 1 | Built-in 40x40mm fan mount with pre-installed brass inserts. Includes 4x M3x6mm screws. |
 | **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 1 | Interchangeable blank internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
+| **PCB Mounts** | <img src="assets/PCB_adhesive.png" alt="Description de l'image" width="100"> | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
 
 Available for Raspberry 3, 4 or 5 :
 
@@ -132,7 +134,7 @@ Available for Raspberry 3, 4 or 5 :
 | **Relay Mount** | <img src="assets/Relay_Module.png" alt="Description de l'image" width="100"> | 1 | Custom-fit plate for the standard ELEGOO 8-Channel 5V DC Relay Module. Printed in PETG-CF, includes 4x M3x6mm screws. |
 | **Protection Cover** | <img src="assets/Capot.png" alt="Description de l'image" width="100"> | 1 | Integrated mechanical cover to hide and secure power wiring. Printed in PETG-CF, includes 2x M3x6mm screws. |
 | **Generic Baseplates** | <img src="assets/Generic_Module.png" alt="Description de l'image" width="100"> | 1 | Interchangeable blank internal baseplates, printed in PETG-CF. |
-| **PCB Mounts** | | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
+| **PCB Mounts** | <img src="assets/PCB_adhesive.png" alt="Description de l'image" width="100"> | 4 | Self-adhesive nylon standoffs for quick, toolless generic board mounting. |
 
 <br>
 
@@ -158,7 +160,10 @@ Available for Raspberry 3, 4 or 5 :
 * **ESP32 / Generic Board Users**: Clean the bottom of the enclosure. Peel off the backing of the provided adhesive nylon standoffs, place them according to your board's footprint, and simply snap your PCB into place.
 
 <!-- Photo exemple avec ESP32 + légende -->
-<!-- GIF insertion module -->
+
+<div align="center">
+  <img src="assets/Generic_Module.gif" alt="Description de l'image" width="400">
+</div>
 
 ### 2. Cable Routing & Cable Glands
 To ensure mechanical strain relief and keep the box sealed against dust:
@@ -193,7 +198,7 @@ Use the rear mounting holes to secure the enclosure to your wall. Make sure to m
 * **Relay board Users**: Secure the standard ELEGOO 8-Channel 5V DC Relay Module (with optocouplers) using the M3 screws. Do not overtighten to avoid stressing the PCB. Go to [ELEGOO Wiki](https://wiki.elegoo.com/oshw-parts-&-accessories/8-CHANNEL?ref=blog.shwok.com) for more information.
 
 <div align="center">
-  <img src="assets/Couverture.jpg" alt="Description de l'image" width="400">
+  <img src="assets/Inside.jpg" alt="Description de l'image" width="400">
 </div>
 
 ### 2. Internal Wiring
