@@ -13,7 +13,7 @@ This project is designed to provide a versatile, professional-grade enclosure fo
  * ...and much more.
 
 <div align="center">
-  <img src="assets/IA.jpg" alt="Description de l'image" width="400">
+  <img src="assets/IA.jpg" alt="Description de l'image" width="700">
 </div>
 
 > [!WARNING]
@@ -162,7 +162,7 @@ Available for Raspberry 3, 4 or 5 :
 <!-- Photo exemple avec ESP32 + légende -->
 
 <div align="center">
-  <img src="assets/Generic_Module.gif" alt="Description de l'image" width="400">
+  <img src="assets/Generic_Module.gif" alt="Description de l'image" width="540">
 </div>
 
 ### 2. Cable Routing & Cable Glands
